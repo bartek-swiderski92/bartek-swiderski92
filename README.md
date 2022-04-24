@@ -1,6 +1,13 @@
-### Hi there 👋
 <h1 align='center'> Hi there 👋, I'm Bartek</h1>
 
+<p align='center'>
+    I live in Hemel Hempstead, UK, and currently I'm looking for work as a Front-End Developer
+</p>
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/bartek-swiderski92/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:b.swiderski92@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
