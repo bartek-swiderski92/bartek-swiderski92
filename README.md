@@ -5,14 +5,7 @@
 </p>
 
 <hr>
-
-<h3> 📫 How to reach me: ... </h4>
-  <a href="https://www.linkedin.com/in/bartek-swiderski92/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:b.swiderski92@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-
-<h3> 🔭 My Development Toolbelt ... </h4>
+<h3> 🔭 My Development Toolbelt: </h4>
     <h5> 🖥 Front-End </h5>
     <p>
         <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
@@ -31,7 +24,7 @@
         <img src="https://img.shields.io/badge/mongodb-51A349?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; 
     </p>
 
-<h3>📚   I'm currently learning...</h3>
+<h3>📚   I'm currently learning:<h3>
     <p>
         <img src="https://img.shields.io/badge/OOP-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,3 +32,8 @@
     </p>
 
 <h3>🚀 Check out my latest projects under pinned repositories </h3>
+
+<hr>
+<h3> 📫 How to reach me: </h4>
+  <a href="https://www.linkedin.com/in/bartek-swiderski92/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:b.swiderski92@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
