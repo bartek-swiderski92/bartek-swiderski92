@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Bartek 👨‍💻</h1>
 
 <p align='center'>
-    I live in Hemel Hempstead, UK, and currently I'm looking for work as a Front-End Developer.
+    I live in Hemel Hempstead, UK, and currently I'm looking for a job as a Front-End Developer.
 </p>
 
 <hr>
