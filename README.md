@@ -10,7 +10,6 @@
   <a href="https://www.linkedin.com/in/bartek-swiderski92/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:b.swiderski92@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<hr>
 
 
 <h4> 🔭 My Development Toolbelt ... </h4>
