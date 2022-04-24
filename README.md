@@ -29,7 +29,7 @@
         <img src="https://img.shields.io/badge/MYSQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; 
     </p>
 
-  <h4>📚   I'm currently learning...</h4>
+<h3>📚   I'm currently learning...</h3>
     <p>
         <img src="https://img.shields.io/badge/OOP-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
