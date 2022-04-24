@@ -13,7 +13,7 @@
 
 
 <h3> 🔭 My Development Toolbelt ... </h4>
-    <h4> 🖥 Front-End </h4>
+    <h5> 🖥 Front-End </h5>
     <p>
         <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
@@ -22,7 +22,7 @@
         <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
     </p>
-   <h4>⚙️ Back-end</h4>
+   <h5>⚙️ Back-end</h5>
     <p> 
         <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; 
         <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; 
