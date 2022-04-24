@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Bartek 👨‍💻</h1>
 
 <p align='center'>
-    I live in Hemel Hempstead, UK, and currently I'm looking for work as a Front-End Developer
+    I live in Hemel Hempstead, UK, and currently I'm looking for work as a Front-End Developer.
 </p>
 
 <hr>
@@ -25,8 +25,10 @@
    <h5>⚙️ Back-end</h5>
     <p> 
         <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; 
+        <img src="https://img.shields.io/badge/Express-828282?style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; 
         <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; 
         <img src="https://img.shields.io/badge/MYSQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; 
+        <img src="https://img.shields.io/badge/mongodb-51A349?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; 
     </p>
 
 <h3>📚   I'm currently learning...</h3>
