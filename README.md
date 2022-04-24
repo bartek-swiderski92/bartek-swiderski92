@@ -24,15 +24,12 @@
   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr>
-
   <h4>- 🌱  I'm currently learning...</h4>
   <p>
   <img src="https://img.shields.io/badge/OOP-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
 
-<hr>
 
 <!--
 - 👯 I’m looking to collaborate on ...
