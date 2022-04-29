@@ -14,6 +14,9 @@
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/owasp-black?style=for-the-badge&logo=owasp&logoColor=#EFEFEF">&nbsp;&nbsp;
+
+    
     </p>
    <h5>⚙️ Back-end</h5>
     <p> 
@@ -22,6 +25,8 @@
         <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; 
         <img src="https://img.shields.io/badge/MYSQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; 
         <img src="https://img.shields.io/badge/mongodb-51A349?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; 
+        <img src="https://img.shields.io/badge/owasp-black?style=for-the-badge&logo=owasp&logoColor=#EFEFEF">&nbsp;&nbsp;
+
     </p>
 
 <h3>📚   I'm currently learning:<h3>
