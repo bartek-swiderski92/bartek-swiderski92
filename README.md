@@ -17,7 +17,7 @@
         <img src="https://img.shields.io/badge/owasp-black?style=for-the-badge&logo=owasp&logoColor=#EFEFEF">&nbsp;&nbsp;
 
     
-    </p>
+</p>
    <h5>⚙️ Back-end</h5>
     <p> 
         <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -26,8 +26,7 @@
         <img src="https://img.shields.io/badge/MYSQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; 
         <img src="https://img.shields.io/badge/mongodb-51A349?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; 
         <img src="https://img.shields.io/badge/owasp-black?style=for-the-badge&logo=owasp&logoColor=#EFEFEF">&nbsp;&nbsp;
-
-    </p>
+</p>
 
 <h3>📚   I'm currently learning:<h3>
     <p>
